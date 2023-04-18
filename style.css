@@ -1,0 +1,8 @@
+.title-task, .toast-body, .btn, .btnAdd, .list-group{
+    font-family: 'Gruppo', cursive;
+}
+
+.form-control::placeholder{
+    font-family: 'gruppo', cursive;
+    color: rgb(138, 134, 134);
+}
